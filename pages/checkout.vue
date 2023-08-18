@@ -6,7 +6,7 @@
                     <div class="bg-white rounded-lg p-4">
                         <div class="text-xl font-semibold mb-2">Shipping Address</div>
 
-                        <div v-if="true">
+                        <div v-if="false">
                             <NuxtLink
                                 to="/address"
                                 class="flex items-center pb-2 text-blue-500 hover:text-red-400"
